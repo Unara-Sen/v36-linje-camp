@@ -1,0 +1,11 @@
+.tabla {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1 rem;
+ 
+}
+.avgang {
+ color: black;
+ padding: 30px;
+ border: 1px solid #175ebb;
+}
